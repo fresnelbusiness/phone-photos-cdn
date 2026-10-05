@@ -13,7 +13,7 @@ Rendus produits officiels de telephones, servis en CDN pour des sites e-commerce
 Via jsDelivr (recommande, CDN mondial) :
 
 ```
-https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15-pro-max/iphone-15-pro-max-blacktitanium.png
+https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@v2/apple/iphone-15-pro-max/iphone-15-pro-max-blacktitanium.png
 ```
 
 Ou directement depuis GitHub :
@@ -37,6 +37,12 @@ respectifs.
 apple/<modele-slug>/<modele-slug>-<coloris>[-dos|-profil].png
 android/<modele-slug>/<modele-slug>-<NN>.png
 ```
+
+## Images
+
+Toutes carrees, fond transparent, telephone cale a 80 % de la hauteur :
+l'echelle est identique d'une fiche a l'autre. Le cadre gris que Apple
+incruste dans certains de ses rendus a ete retire.
 
 ## Variantes d'image
 
