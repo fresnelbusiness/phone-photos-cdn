@@ -18,7 +18,23 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-11/iphone-11-white-2019.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-11/iphone-11-yellow-2019.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11/iphone-11-black-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11/iphone-11-green-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11/iphone-11-purple-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11/iphone-11-red-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11/iphone-11-white-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11/iphone-11-yellow-2019.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11/iphone-11-black-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11/iphone-11-green-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11/iphone-11-purple-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11/iphone-11-red-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11/iphone-11-white-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11/iphone-11-yellow-2019.webp"
+  ]
  },
  "iPhone 11 Pro Max": {
   "brand": "iPhone",
@@ -39,7 +55,23 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-11-pro-max/iphone-11-pro-max-silver-2019-2.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-11-pro-max/iphone-11-pro-max-space-2019-2.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11-pro-max/iphone-11-pro-max-gold-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11-pro-max/iphone-11-pro-max-gold-2019-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11-pro-max/iphone-11-pro-max-silver-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11-pro-max/iphone-11-pro-max-space-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11-pro-max/iphone-11-pro-max-silver-2019-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-11-pro-max/iphone-11-pro-max-space-2019-2.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11-pro-max/iphone-11-pro-max-gold-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11-pro-max/iphone-11-pro-max-gold-2019-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11-pro-max/iphone-11-pro-max-silver-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11-pro-max/iphone-11-pro-max-space-2019.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11-pro-max/iphone-11-pro-max-silver-2019-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-11-pro-max/iphone-11-pro-max-space-2019-2.webp"
+  ]
  },
  "iPhone 12": {
   "brand": "iPhone",
@@ -60,7 +92,23 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-12/iphone-12-red-2020.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-12/iphone-12-white-2020.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12/iphone-12-black-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12/iphone-12-blue-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12/iphone-12-green-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12/iphone-12-purple-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12/iphone-12-red-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12/iphone-12-white-2020.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12/iphone-12-black-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12/iphone-12-blue-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12/iphone-12-green-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12/iphone-12-purple-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12/iphone-12-red-2020.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12/iphone-12-white-2020.webp"
+  ]
  },
  "iPhone 12 Pro": {
   "brand": "iPhone",
@@ -77,7 +125,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-12-pro/iphone-12-pro-graphite.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-12-pro/iphone-12-pro-silver.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro/iphone-12-pro-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro/iphone-12-pro-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro/iphone-12-pro-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro/iphone-12-pro-silver.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro/iphone-12-pro-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro/iphone-12-pro-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro/iphone-12-pro-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro/iphone-12-pro-silver.webp"
+  ]
  },
  "iPhone 12 Pro Max": {
   "brand": "iPhone",
@@ -94,7 +154,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-12-pro-max/iphone-12-pro-max-graphite.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-12-pro-max/iphone-12-pro-max-silver.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro-max/iphone-12-pro-max-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro-max/iphone-12-pro-max-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro-max/iphone-12-pro-max-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-12-pro-max/iphone-12-pro-max-silver.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro-max/iphone-12-pro-max-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro-max/iphone-12-pro-max-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro-max/iphone-12-pro-max-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-12-pro-max/iphone-12-pro-max-silver.webp"
+  ]
  },
  "iPhone 13": {
   "brand": "iPhone",
@@ -113,7 +185,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-13/iphone-13-pink-2021.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-13/iphone-13-starlight-2021.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13/iphone-13-blue-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13/iphone-13-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13/iphone-13-midnight-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13/iphone-13-pink-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13/iphone-13-starlight-2021.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13/iphone-13-blue-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13/iphone-13-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13/iphone-13-midnight-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13/iphone-13-pink-2021.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13/iphone-13-starlight-2021.webp"
+  ]
  },
  "iPhone 13 Pro": {
   "brand": "iPhone",
@@ -134,7 +220,23 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-13-pro/iphone-13-pro-silver.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-13-pro/iphone-13-pro-product-red-2021.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro/iphone-13-pro-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro/iphone-13-pro-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro/iphone-13-pro-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro/iphone-13-pro-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro/iphone-13-pro-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro/iphone-13-pro-product-red-2021.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro/iphone-13-pro-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro/iphone-13-pro-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro/iphone-13-pro-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro/iphone-13-pro-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro/iphone-13-pro-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro/iphone-13-pro-product-red-2021.webp"
+  ]
  },
  "iPhone 13 Pro Max": {
   "brand": "iPhone",
@@ -153,7 +255,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-13-pro-max/iphone-13-pro-max-green.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-13-pro-max/iphone-13-pro-max-silver.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro-max/iphone-13-pro-max-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro-max/iphone-13-pro-max-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro-max/iphone-13-pro-max-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro-max/iphone-13-pro-max-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-13-pro-max/iphone-13-pro-max-silver.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro-max/iphone-13-pro-max-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro-max/iphone-13-pro-max-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro-max/iphone-13-pro-max-graphite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro-max/iphone-13-pro-max-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-13-pro-max/iphone-13-pro-max-silver.webp"
+  ]
  },
  "iPhone 14": {
   "brand": "iPhone",
@@ -172,7 +288,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-14/iphone-14-starlight.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-14/iphone-14-yellow.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14/iphone-14-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14/iphone-14-midnight.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14/iphone-14-purple.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14/iphone-14-starlight.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14/iphone-14-yellow.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14/iphone-14-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14/iphone-14-midnight.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14/iphone-14-purple.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14/iphone-14-starlight.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14/iphone-14-yellow.webp"
+  ]
  },
  "iPhone 14 Pro": {
   "brand": "iPhone",
@@ -189,7 +319,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-14-pro/iphone-14-pro-silver.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-14-pro/iphone-14-pro-spaceblack.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro/iphone-14-pro-deeppurple.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro/iphone-14-pro-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro/iphone-14-pro-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro/iphone-14-pro-spaceblack.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro/iphone-14-pro-deeppurple.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro/iphone-14-pro-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro/iphone-14-pro-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro/iphone-14-pro-spaceblack.webp"
+  ]
  },
  "iPhone 14 Pro Max": {
   "brand": "iPhone",
@@ -206,7 +348,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-14-pro-max/iphone-14-pro-max-silver.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-14-pro-max/iphone-14-pro-max-spaceblack.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro-max/iphone-14-pro-max-deeppurple.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro-max/iphone-14-pro-max-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro-max/iphone-14-pro-max-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-14-pro-max/iphone-14-pro-max-spaceblack.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro-max/iphone-14-pro-max-deeppurple.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro-max/iphone-14-pro-max-gold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro-max/iphone-14-pro-max-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-14-pro-max/iphone-14-pro-max-spaceblack.webp"
+  ]
  },
  "iPhone 15": {
   "brand": "iPhone",
@@ -225,7 +379,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15/iphone-15-pink.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15/iphone-15-yellow.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15/iphone-15-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15/iphone-15-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15/iphone-15-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15/iphone-15-pink.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15/iphone-15-yellow.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15/iphone-15-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15/iphone-15-blue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15/iphone-15-green.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15/iphone-15-pink.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15/iphone-15-yellow.webp"
+  ]
  },
  "iPhone 15 Pro": {
   "brand": "iPhone",
@@ -242,7 +410,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15-pro/iphone-15-pro-naturaltitanium.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15-pro/iphone-15-pro-whitetitanium.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro/iphone-15-pro-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro/iphone-15-pro-bluetitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro/iphone-15-pro-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro/iphone-15-pro-whitetitanium.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro/iphone-15-pro-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro/iphone-15-pro-bluetitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro/iphone-15-pro-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro/iphone-15-pro-whitetitanium.webp"
+  ]
  },
  "iPhone 15 Pro Max": {
   "brand": "iPhone",
@@ -259,7 +439,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15-pro-max/iphone-15-pro-max-naturaltitanium.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-15-pro-max/iphone-15-pro-max-whitetitanium.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro-max/iphone-15-pro-max-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro-max/iphone-15-pro-max-bluetitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro-max/iphone-15-pro-max-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-15-pro-max/iphone-15-pro-max-whitetitanium.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro-max/iphone-15-pro-max-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro-max/iphone-15-pro-max-bluetitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro-max/iphone-15-pro-max-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-15-pro-max/iphone-15-pro-max-whitetitanium.webp"
+  ]
  },
  "iPhone 16": {
   "brand": "iPhone",
@@ -278,7 +470,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16/iphone-16-ultramarine.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16/iphone-16-white.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16/iphone-16-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16/iphone-16-pink.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16/iphone-16-teal.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16/iphone-16-ultramarine.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16/iphone-16-white.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16/iphone-16-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16/iphone-16-pink.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16/iphone-16-teal.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16/iphone-16-ultramarine.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16/iphone-16-white.webp"
+  ]
  },
  "iPhone 16 Plus": {
   "brand": "iPhone",
@@ -297,7 +503,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16-plus/iphone-16-plus-ultramarine.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16-plus/iphone-16-plus-white.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-plus/iphone-16-plus-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-plus/iphone-16-plus-pink.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-plus/iphone-16-plus-teal.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-plus/iphone-16-plus-ultramarine.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-plus/iphone-16-plus-white.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-plus/iphone-16-plus-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-plus/iphone-16-plus-pink.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-plus/iphone-16-plus-teal.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-plus/iphone-16-plus-ultramarine.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-plus/iphone-16-plus-white.webp"
+  ]
  },
  "iPhone 16 Pro": {
   "brand": "iPhone",
@@ -314,7 +534,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16-pro/iphone-16-pro-naturaltitanium.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16-pro/iphone-16-pro-whitetitanium.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro/iphone-16-pro-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro/iphone-16-pro-deserttitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro/iphone-16-pro-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro/iphone-16-pro-whitetitanium.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro/iphone-16-pro-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro/iphone-16-pro-deserttitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro/iphone-16-pro-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro/iphone-16-pro-whitetitanium.webp"
+  ]
  },
  "iPhone 16 Pro Max": {
   "brand": "iPhone",
@@ -331,7 +563,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16-pro-max/iphone-16-pro-max-naturaltitanium.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16-pro-max/iphone-16-pro-max-whitetitanium.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro-max/iphone-16-pro-max-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro-max/iphone-16-pro-max-deserttitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro-max/iphone-16-pro-max-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16-pro-max/iphone-16-pro-max-whitetitanium.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro-max/iphone-16-pro-max-blacktitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro-max/iphone-16-pro-max-deserttitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro-max/iphone-16-pro-max-naturaltitanium.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16-pro-max/iphone-16-pro-max-whitetitanium.webp"
+  ]
  },
  "iPhone 16e": {
   "brand": "iPhone",
@@ -348,7 +592,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16e/iphone-16e-black-dos.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-16e/iphone-16e-white-dos.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16e/iphone-16e-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16e/iphone-16e-white.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16e/iphone-16e-black-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-16e/iphone-16e-white-dos.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16e/iphone-16e-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16e/iphone-16e-white.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16e/iphone-16e-black-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-16e/iphone-16e-white-dos.webp"
+  ]
  },
  "iPhone 17": {
   "brand": "iPhone",
@@ -387,7 +643,41 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17/iphone-17-white-dos.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17/iphone-17-white-profil.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-lavender.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-mistblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-sage.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-white.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-black-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-black-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-lavender-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-lavender-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-mistblue-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-mistblue-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-sage-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-sage-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-white-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17/iphone-17-white-profil.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-lavender.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-mistblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-sage.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-white.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-black-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-black-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-lavender-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-lavender-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-mistblue-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-mistblue-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-sage-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-sage-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-white-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17/iphone-17-white-profil.webp"
+  ]
  },
  "iPhone 17 Air": {
   "brand": "iPhone",
@@ -420,7 +710,35 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17-air/iphone-17-air-spaceblack-dos.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17-air/iphone-17-air-spaceblack-profil.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-cloudwhite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-lightgold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-skyblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-spaceblack.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-cloudwhite-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-cloudwhite-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-lightgold-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-lightgold-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-skyblue-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-skyblue-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-spaceblack-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-air/iphone-17-air-spaceblack-profil.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-cloudwhite.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-lightgold.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-skyblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-spaceblack.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-cloudwhite-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-cloudwhite-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-lightgold-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-lightgold-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-skyblue-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-skyblue-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-spaceblack-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-air/iphone-17-air-spaceblack-profil.webp"
+  ]
  },
  "iPhone 17 Pro": {
   "brand": "iPhone",
@@ -435,7 +753,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17-pro/iphone-17-pro-deepblue.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17-pro/iphone-17-pro-silver.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-pro/iphone-17-pro-cosmicorange.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-pro/iphone-17-pro-deepblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-pro/iphone-17-pro-silver.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-pro/iphone-17-pro-cosmicorange.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-pro/iphone-17-pro-deepblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-pro/iphone-17-pro-silver.webp"
+  ]
  },
  "iPhone 17 Pro Max": {
   "brand": "iPhone",
@@ -450,7 +778,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17-pro-max/iphone-17-pro-max-deepblue.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-17-pro-max/iphone-17-pro-max-silver.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-pro-max/iphone-17-pro-max-cosmicorange.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-pro-max/iphone-17-pro-max-deepblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-17-pro-max/iphone-17-pro-max-silver.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-pro-max/iphone-17-pro-max-cosmicorange.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-pro-max/iphone-17-pro-max-deepblue.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-17-pro-max/iphone-17-pro-max-silver.webp"
+  ]
  },
  "iPhone 18 Pro Max": {
   "brand": "iPhone",
@@ -515,7 +853,67 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-18-pro-max/iphone-18-pro-max-silver-dos-2.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/apple/iphone-18-pro-max/iphone-18-pro-max-silver-profil-2.png"
   ],
-  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)"
+  "source": "store.storeimages.cdn-apple.com (rendus officiels Apple, PNG transparent)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-standard.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-glacier.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-standard-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black-3.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver-3.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-black-profil-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-profil-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-profil-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/apple/iphone-18-pro-max/iphone-18-pro-max-silver-profil-2.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-standard.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-glacier.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-standard-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black-3.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver-3.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver-dos.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver-profil.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-black-profil-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-burgundy-profil-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-glacier-profil-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver-dos-2.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/apple/iphone-18-pro-max/iphone-18-pro-max-silver-profil-2.webp"
+  ]
  },
  "Infinix Note Edge 5G": {
   "brand": "Infinix",
@@ -530,7 +928,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/infinix-note-edge-5g/infinix-note-edge-5g-02.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/infinix-note-edge-5g/infinix-note-edge-5g-03.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/infinix-note-edge-5g/infinix-note-edge-5g-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/infinix-note-edge-5g/infinix-note-edge-5g-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/infinix-note-edge-5g/infinix-note-edge-5g-03.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/infinix-note-edge-5g/infinix-note-edge-5g-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/infinix-note-edge-5g/infinix-note-edge-5g-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/infinix-note-edge-5g/infinix-note-edge-5g-03.webp"
+  ]
  },
  "Infinix Smart 20": {
   "brand": "Infinix",
@@ -545,7 +953,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/infinix-smart-20/infinix-smart-20-02.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/infinix-smart-20/infinix-smart-20-03.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/infinix-smart-20/infinix-smart-20-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/infinix-smart-20/infinix-smart-20-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/infinix-smart-20/infinix-smart-20-03.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/infinix-smart-20/infinix-smart-20-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/infinix-smart-20/infinix-smart-20-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/infinix-smart-20/infinix-smart-20-03.webp"
+  ]
  },
  "Redmi 15C": {
   "brand": "Redmi",
@@ -570,7 +988,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-15c/redmi-15c-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-15c/redmi-15c-08.png"
   ],
-  "source": "https://www.mi.com/global/product/redmi-15c-5g/; https://www.mi.com/global/product/redmi-15c/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.mi.com/global/product/redmi-15c-5g/; https://www.mi.com/global/product/redmi-15c/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-15c/redmi-15c-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-15c/redmi-15c-08.webp"
+  ]
  },
  "Redmi A3 Pro": {
   "brand": "Redmi",
@@ -583,7 +1021,15 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-a3-pro/redmi-a3-pro-01.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-a3-pro/redmi-a3-pro-02.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a3-pro/redmi-a3-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a3-pro/redmi-a3-pro-02.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a3-pro/redmi-a3-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a3-pro/redmi-a3-pro-02.webp"
+  ]
  },
  "Redmi A7 Pro": {
   "brand": "Redmi",
@@ -608,7 +1054,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-a7-pro/redmi-a7-pro-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-a7-pro/redmi-a7-pro-08.png"
   ],
-  "source": "https://www.mi.com/global/product/redmi-a7-pro/; https://www.mi.com/in/product/redmi-a7-pro-5g/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.mi.com/global/product/redmi-a7-pro/; https://www.mi.com/in/product/redmi-a7-pro-5g/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-a7-pro/redmi-a7-pro-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-a7-pro/redmi-a7-pro-08.webp"
+  ]
  },
  "Redmi Note 14 Pro": {
   "brand": "Redmi",
@@ -633,7 +1099,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-14-pro/redmi-note-14-pro-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-14-pro/redmi-note-14-pro-08.png"
   ],
-  "source": "https://www.mi.com/global/product/redmi-note-14-pro-5g/; https://www.mi.com/global/product/redmi-note-14-pro/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.mi.com/global/product/redmi-note-14-pro-5g/; https://www.mi.com/global/product/redmi-note-14-pro/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-14-pro/redmi-note-14-pro-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-14-pro/redmi-note-14-pro-08.webp"
+  ]
  },
  "Redmi Note 15 Pro Plus": {
   "brand": "Redmi",
@@ -658,7 +1144,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-08.png"
   ],
-  "source": "https://www.mi.com/global/product/redmi-note-15-pro-plus-5g/; https://www.mi.com/in/product/redmi-note-15-pro-plus-5g/"
+  "source": "https://www.mi.com/global/product/redmi-note-15-pro-plus-5g/; https://www.mi.com/in/product/redmi-note-15-pro-plus-5g/",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-15-pro-plus/redmi-note-15-pro-plus-08.webp"
+  ]
  },
  "Redmi Note 17": {
   "brand": "Redmi",
@@ -683,7 +1189,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-17/redmi-note-17-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-17/redmi-note-17-08.png"
   ],
-  "source": "https://www.mi.com/in/product/redmi-note-17-5g/; https://www.mi.com/global/product/redmi-note-17-5g/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.mi.com/in/product/redmi-note-17-5g/; https://www.mi.com/global/product/redmi-note-17-5g/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17/redmi-note-17-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17/redmi-note-17-08.webp"
+  ]
  },
  "Redmi Note 17 Pro": {
   "brand": "Redmi",
@@ -708,7 +1234,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-17-pro/redmi-note-17-pro-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/redmi-note-17-pro/redmi-note-17-pro-08.png"
   ],
-  "source": "https://www.mi.com/global/product/redmi-note-17-pro-5g/; https://www.mi.com/in/product/redmi-note-17-pro-5g/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.mi.com/global/product/redmi-note-17-pro-5g/; https://www.mi.com/in/product/redmi-note-17-pro-5g/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/redmi-note-17-pro/redmi-note-17-pro-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/redmi-note-17-pro/redmi-note-17-pro-08.webp"
+  ]
  },
  "Samsung Galaxy A06": {
   "brand": "Samsung",
@@ -721,7 +1267,15 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a06/samsung-galaxy-a06-01.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a06/samsung-galaxy-a06-02.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a06/samsung-galaxy-a06-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a06/samsung-galaxy-a06-02.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a06/samsung-galaxy-a06-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a06/samsung-galaxy-a06-02.webp"
+  ]
  },
  "Samsung Galaxy A07": {
   "brand": "Samsung",
@@ -738,7 +1292,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a07/samsung-galaxy-a07-03.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a07/samsung-galaxy-a07-04.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a07/samsung-galaxy-a07-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a07/samsung-galaxy-a07-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a07/samsung-galaxy-a07-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a07/samsung-galaxy-a07-04.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a07/samsung-galaxy-a07-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a07/samsung-galaxy-a07-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a07/samsung-galaxy-a07-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a07/samsung-galaxy-a07-04.webp"
+  ]
  },
  "Samsung Galaxy A17": {
   "brand": "Samsung",
@@ -763,7 +1329,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a17/samsung-galaxy-a17-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a17/samsung-galaxy-a17-08.png"
   ],
-  "source": "https://www.samsung.com/us/smartphones/galaxy-a17-5g/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/us/smartphones/galaxy-a17-5g/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a17/samsung-galaxy-a17-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a17/samsung-galaxy-a17-08.webp"
+  ]
  },
  "Samsung Galaxy A26": {
   "brand": "Samsung",
@@ -786,7 +1372,25 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a26/samsung-galaxy-a26-06.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a26/samsung-galaxy-a26-07.png"
   ],
-  "source": "https://www.samsung.com/us/smartphones/galaxy-a26-5g/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/us/smartphones/galaxy-a26-5g/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a26/samsung-galaxy-a26-07.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a26/samsung-galaxy-a26-07.webp"
+  ]
  },
  "Samsung Galaxy A56": {
   "brand": "Samsung",
@@ -809,7 +1413,25 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a56/samsung-galaxy-a56-06.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-a56/samsung-galaxy-a56-07.png"
   ],
-  "source": "https://www.samsung.com/us/smartphones/galaxy-a56-5g/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/us/smartphones/galaxy-a56-5g/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-a56/samsung-galaxy-a56-07.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-a56/samsung-galaxy-a56-07.webp"
+  ]
  },
  "Samsung Galaxy S21 FE": {
   "brand": "Samsung",
@@ -824,7 +1446,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-02.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-03.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-03.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s21-fe/samsung-galaxy-s21-fe-03.webp"
+  ]
  },
  "Samsung Galaxy S22 Plus": {
   "brand": "Samsung",
@@ -839,7 +1471,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-02.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-03.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-03.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s22-plus/samsung-galaxy-s22-plus-03.webp"
+  ]
  },
  "Samsung Galaxy S23": {
   "brand": "Samsung",
@@ -854,7 +1496,17 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s23/samsung-galaxy-s23-02.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s23/samsung-galaxy-s23-03.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23/samsung-galaxy-s23-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23/samsung-galaxy-s23-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23/samsung-galaxy-s23-03.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23/samsung-galaxy-s23-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23/samsung-galaxy-s23-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23/samsung-galaxy-s23-03.webp"
+  ]
  },
  "Samsung Galaxy S23 Plus": {
   "brand": "Samsung",
@@ -871,7 +1523,19 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-03.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-04.png"
   ],
-  "source": "fdn2.gsmarena.com (rendus officiels)"
+  "source": "fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-04.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s23-plus/samsung-galaxy-s23-plus-04.webp"
+  ]
  },
  "Samsung Galaxy S25 Plus": {
   "brand": "Samsung",
@@ -896,7 +1560,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-08.png"
   ],
-  "source": "https://www.samsung.com/us/smartphones/galaxy-s25/; https://www.samsung.com/fr/smartphones/galaxy-s25/"
+  "source": "https://www.samsung.com/us/smartphones/galaxy-s25/; https://www.samsung.com/fr/smartphones/galaxy-s25/",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-plus/samsung-galaxy-s25-plus-08.webp"
+  ]
  },
  "Samsung Galaxy S25 Ultra": {
   "brand": "Samsung",
@@ -921,7 +1605,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-08.png"
   ],
-  "source": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/; https://www.samsung.com/fr/smartphones/galaxy-s25-ultra/"
+  "source": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/; https://www.samsung.com/fr/smartphones/galaxy-s25-ultra/",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s25-ultra/samsung-galaxy-s25-ultra-08.webp"
+  ]
  },
  "Samsung Galaxy S26 Ultra": {
   "brand": "Samsung",
@@ -946,7 +1650,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-08.png"
   ],
-  "source": "https://www.samsung.com/fr/smartphones/galaxy-s26-ultra/; https://www.samsung.com/us/smartphones/galaxy-s26-ultra/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/fr/smartphones/galaxy-s26-ultra/; https://www.samsung.com/us/smartphones/galaxy-s26-ultra/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-s26-ultra/samsung-galaxy-s26-ultra-08.webp"
+  ]
  },
  "Samsung Galaxy Tab A11": {
   "brand": "GALAXY TAB",
@@ -965,7 +1689,21 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-04.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-05.png"
   ],
-  "source": "https://www.samsung.com/us/tablets/galaxy-tab-a11-plus/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/us/tablets/galaxy-tab-a11-plus/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-05.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-tab-a11/samsung-galaxy-tab-a11-05.webp"
+  ]
  },
  "Samsung Galaxy Z Fold 6": {
   "brand": "Samsung",
@@ -990,7 +1728,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-08.png"
   ],
-  "source": "https://www.samsung.com/in/smartphones/galaxy-z-fold6/; https://www.samsung.com/fr/smartphones/galaxy-z-fold6/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/in/smartphones/galaxy-z-fold6/; https://www.samsung.com/fr/smartphones/galaxy-z-fold6/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-6/samsung-galaxy-z-fold-6-08.webp"
+  ]
  },
  "Samsung Galaxy Z Fold 7": {
   "brand": "Samsung",
@@ -1015,7 +1773,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-08.png"
   ],
-  "source": "https://www.samsung.com/us/smartphones/galaxy-z-fold7/; https://www.samsung.com/fr/smartphones/galaxy-z-fold7/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.samsung.com/us/smartphones/galaxy-z-fold7/; https://www.samsung.com/fr/smartphones/galaxy-z-fold7/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/samsung-galaxy-z-fold-7/samsung-galaxy-z-fold-7-08.webp"
+  ]
  },
  "TECNO Camon 50": {
   "brand": "Tecno",
@@ -1040,7 +1818,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-camon-50/tecno-camon-50-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-camon-50/tecno-camon-50-08.png"
   ],
-  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-50/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-50/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50/tecno-camon-50-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50/tecno-camon-50-08.webp"
+  ]
  },
  "TECNO Camon 50 Pro": {
   "brand": "Tecno",
@@ -1065,7 +1863,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-camon-50-pro/tecno-camon-50-pro-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-camon-50-pro/tecno-camon-50-pro-08.png"
   ],
-  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-50-pro/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-50-pro/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-50-pro/tecno-camon-50-pro-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-50-pro/tecno-camon-50-pro-08.webp"
+  ]
  },
  "TECNO Camon Slim": {
   "brand": "Tecno",
@@ -1090,7 +1908,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-camon-slim/tecno-camon-slim-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-camon-slim/tecno-camon-slim-08.png"
   ],
-  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-slim/; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-slim/; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-camon-slim/tecno-camon-slim-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-camon-slim/tecno-camon-slim-08.webp"
+  ]
  },
  "TECNO Pop 20": {
   "brand": "Tecno",
@@ -1115,7 +1953,27 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-pop-20/tecno-pop-20-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/tecno-pop-20/tecno-pop-20-08.png"
   ],
-  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/pop-20/"
+  "source": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/pop-20/",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/tecno-pop-20/tecno-pop-20-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/tecno-pop-20/tecno-pop-20-08.webp"
+  ]
  },
  "itel A200": {
   "brand": "ITEL",
@@ -1140,6 +1998,26 @@
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/itel-a200/itel-a200-07.png",
    "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/android/itel-a200/itel-a200-08.png"
   ],
-  "source": "https://www.itel-life.com/products/phone/a-series/a200; fdn2.gsmarena.com (rendus officiels)"
+  "source": "https://www.itel-life.com/products/phone/a-series/a200; fdn2.gsmarena.com (rendus officiels)",
+  "urls_webp": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/webp/android/itel-a200/itel-a200-08.webp"
+  ],
+  "urls_thumb": [
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-01.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-02.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-03.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-04.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-05.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-06.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-07.webp",
+   "https://cdn.jsdelivr.net/gh/fresnelbusiness/phone-photos-cdn@main/thumb/android/itel-a200/itel-a200-08.webp"
+  ]
  }
 }

@@ -37,3 +37,19 @@ respectifs.
 apple/<modele-slug>/<modele-slug>-<coloris>[-dos|-profil].png
 android/<modele-slug>/<modele-slug>-<NN>.png
 ```
+
+## Variantes d'image
+
+Chaque visuel existe en trois formats, meme chemin, prefixe different :
+
+| Variante | Chemin | Taille | Usage |
+|---|---|---|---|
+| Miniature | `thumb/<dossier>/<nom>.webp` | 420 px, ~9 Ko | cartes du catalogue |
+| Pleine taille | `webp/<dossier>/<nom>.webp` | 900 px, ~25 Ko | fiche detaillee |
+| PNG | `<dossier>/<nom>.png` | 900 px, ~180 Ko | repli, navigateurs sans WebP |
+
+Le WebP est 90 % plus leger que le PNG, les miniatures 96 %.
+
+## Assets Chez Manaf
+
+`chez-manaf/logo.png` · `logo.webp` · `logo-180.png` (favicon) · `fondateur.jpg` · `fondateur.webp`
